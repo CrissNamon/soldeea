@@ -14,5 +14,10 @@ This algorithm was developed as part of conference in Kuban State University, Kr
 <br>
 Author: <b>Rassokhin Danila</b>, student of 3 course
 <br>
-![Encryption model]( "Encryption math model")
-![Decryption model]( "Decryption math model")
+Encryption math model:
+<br>
+![Encryption model](https://github.com/CrissNamon/soldeea/blob/master/encryption_model.png "Encryption math model")
+<br>
+Decryption math model:
+<br>
+![Decryption model](https://github.com/CrissNamon/soldeea/blob/master/decryption_model.png "Decryption math model")
