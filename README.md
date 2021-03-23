@@ -3,6 +3,8 @@
 <br>
 This algorithm uses the idea about infinite solutions of system, where number of variables in diophantine equations is more than number of equations.
 <br>
+The main feature of algorithm is resistance to quantum algorithm attacks, such as Shor's or Grover's algorithm.
+<br>
 This repository contains simple realisation of algorithm in Java.
 ## How it works?
 If user has private encryption key, system can be solved easily using Gauss method, for example.
