@@ -11,11 +11,6 @@ If user has private encryption key, system can be solved easily using Gauss meth
 <br>
 But if user has only encrypted information, system has infinite solutions, so plain data can't be recovered in finite time interval.
 <br>
-## About
-This algorithm was developed as part of conference in Kuban State University, Krasnodar city.
-<br>
-Author: <b>Rassokhin Danila</b>, student of 3 course
-<br>
 Encryption math model:
 <br>
 ![Encryption model](https://github.com/CrissNamon/soldeea/blob/master/encryption_model.png "Encryption math model")
@@ -23,3 +18,7 @@ Encryption math model:
 Decryption math model:
 <br>
 ![Decryption model](https://github.com/CrissNamon/soldeea/blob/master/decryption_model.png "Decryption math model")
+## About
+This algorithm was developed as part of conference in Kuban State University, Krasnodar city.
+<br>
+Author: <b>Rassokhin Danila</b>, student of 3 course
